@@ -1,1 +1,1 @@
-display conent in a file
+this changes dirctory
