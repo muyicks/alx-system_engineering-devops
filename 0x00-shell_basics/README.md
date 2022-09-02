@@ -1,1 +1,1 @@
-Move the file betty from /tmp/
+a script that changes the working directory
